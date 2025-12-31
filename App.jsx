@@ -74,7 +74,7 @@ function App() {
                   isVisible ? 'animate-fade-in-up delay-500' : ''
                 }`}>
                   May this year bring us countless memories, endless love, and dreams come true. 
-                  Here's to our first full year together as one.
+                  And May Allah Almighty bless us with many more years of happiness and love. Ameen.
                 </p>
                 
                 <p className={`text-xl md:text-2xl font-bold text-purple-600 mt-8 ${
