@@ -11,3 +11,4 @@ Place your image file here for the New Year wish page.
 - If you place `couple-photo.jpg` in this folder
 - Use `/couple-photo.jpg` as the src in App.jsx
 
+

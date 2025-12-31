@@ -9,7 +9,7 @@ function App() {
           <div className="absolute inset-0 bg-black bg-opacity-10"></div>
           <div className="relative z-10 text-center p-8 w-full h-full flex items-center justify-center">
             <img 
-              src="/abc.JPG" 
+              src="/abc.png" 
               alt="New Year Wish" 
               className="w-full h-full object-cover"
             />
