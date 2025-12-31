@@ -28,7 +28,7 @@ function App() {
             
             <div className="space-y-4 text-gray-700 leading-relaxed">
               <p className="text-xl md:text-2xl font-medium text-gray-800">
-                My Dearest Love,
+                The most beautiful wife in the world,
               </p>
               
               <p className="text-lg md:text-xl">
